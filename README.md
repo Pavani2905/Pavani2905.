@@ -37,6 +37,6 @@ Relevant Coursework:
 - Participated in the **AI Autonomous Hackathon** 2025 at **Siddhartha Academy of Higher Education**, focusing on AI Innovation.
 
 ## 📫 Reach Me
-- **Email:** [vardhineedipavani.com](mailto:vardhineedipavani@gmail.com)
+- **Email:** [vardhineedipavani@gmail.com](mailto:vardhineedipavani@gmail.com)
 - **LinkedIn:** [Pavani Vardhineedi](https://www.linkedin.com/in/pavani-vardhineedi)
 
