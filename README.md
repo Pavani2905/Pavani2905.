@@ -1,6 +1,6 @@
 # Hi, I'm Pavani Vardhineedi 👋
 
-Welcome to my GitHub profile! I'm Pavani Vardhineedi, currently pursuing my Bachelor's in Technology (B.Tech) with a focus on Artificial Intelligence and Machine Learning (AIML) with a strong foundation and technical expertise in Artificial intelligence Machine learing, Wed development, data science gained through practical projects and internships. I am eager to contribute to innovative projects. Everyday is a new day to learn so many amazing things, excited to see what's in the future store..
+Welcome to my GitHub profile! I'm Pavani Vardhineedi, currently pursuing my Bachelor's in Technology (B.Tech) with a focus on Artificial Intelligence and Machine Learning (AIML) with a strong foundation and technical expertise in Artificial intelligence Machine learing, Web development, data science gained through practical projects and internships. I am eager to contribute to innovative projects. Everyday is a new day to learn so many amazing things, excited to see what's in the future store..
 
 ## 🎓 Education
 **BTech in AI & ML**, Swarnandhra College of Engineering and Technology, Narsapur, AP, India  
