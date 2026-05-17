@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Pavani Vardhineedi, currently pursuing my Bach
 
 ## 🎓 Education
 **BTech in AI & ML**, Swarnandhra College of Engineering and Technology, Narsapur, AP, India  
-*CGPA: 8.23* | *Expected 2025*  
+*CGPA: 8.55* | *Expected 2025*  
  
 Relevant Coursework:
 - Computing in Python, Java
